@@ -1,16 +1,12 @@
 services:
   - type: web
     name: gridbricks-wind-backend
-    env: python
+    env: docker
     plan: free
     region: frankfurt
-    buildCommand: "pip install -r backend/requirements.txt"
-    startCommand: "uvicorn backend.main:app --host 0.0.0.0 --port $PORT"
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
     healthCheckPath: /api/health
     envVars:
-      - key: PYTHON_VERSION
-        value: 3.11.9
-      - key: PYTHONPATH
-        value: .
       - key: ENVIRONMENT
         value: production
