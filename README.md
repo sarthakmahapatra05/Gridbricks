@@ -1,4 +1,4 @@
-   # Wind Forecast Reliability — Day-Ahead Buying
+   # Wind Forecast Reliability - Day-Ahead Buying
 
 An executive decision-support analytics web application tailored for a UK electricity utility procuring power in the day-ahead wholesale electricity market.
 
