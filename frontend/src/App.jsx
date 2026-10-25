@@ -39,7 +39,7 @@ const ErrorShadingLayer = (props) => {
   return <path d={pathD} fill="rgba(234, 88, 12, 0.14)" stroke="none" pointerEvents="none" />;
 };
 
-const rawApiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const rawApiUrl = import.meta.env.VITE_API_URL || 'https://gridbricks-9mcs.onrender.com';
 const API_BASE = rawApiUrl.replace(/\/+$/, '');
 
 const formatTimeLabel = (isoStr) => {
