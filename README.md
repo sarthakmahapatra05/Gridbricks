@@ -233,7 +233,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 7. Open the Vercel URL in your browser to verify that the charts, KPIs, and controls load live data from your Render backend.
 
 ---
-
-## AI Disclosure
-
-In accordance with project evaluation instructions, **Antigravity (AI coding agent)** was used to assist in project scaffolding, API parameter verification, anti-lookahead algorithm validation, unit testing, and UI styling.
