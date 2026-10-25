@@ -8,10 +8,10 @@ Day-ahead wholesale purchase decisions are locked in on day $D-1$ before gate cl
 
 ## Live Links (Submission)
 
-- **Frontend (Vercel):** `https://<YOUR-VERCEL-APP-NAME>.vercel.app` *(Placeholder — follow deployment instructions below)*
-- **Backend API (Render):** `https://<YOUR-RENDER-APP-NAME>.onrender.com` *(Placeholder — follow deployment instructions below)*
-- **Interactive API Documentation:** `https://<YOUR-RENDER-APP-NAME>.onrender.com/docs`
-- **Video Walkthrough Demo:** `https://youtu.be/<YOUR_VIDEO_ID>` *(10-minute unlisted YouTube video)*
+- **Frontend (Vercel):** [https://gridbricks-seven.vercel.app/](https://gridbricks-seven.vercel.app/)
+- **Backend API (Render):** [https://gridbricks-9mcs.onrender.com](https://gridbricks-9mcs.onrender.com)
+- **Interactive API Documentation (Swagger):** [https://gridbricks-9mcs.onrender.com/docs](https://gridbricks-9mcs.onrender.com/docs)
+- **Video Walkthrough Demo:** `[Add YouTube link here after publishing]` *(Unlisted YouTube video)*
 
 ---
 
